@@ -7233,13 +7233,13 @@ section {
   background-color: #0093A9;
 }
 .page-header {
-  background-image: url('../theratio_placeholder/tb1.jpg');
+  background-image: url('tb1.jpg');
 }
 .page-header-contact {
-  background-image: url('../theratio_placeholder/c1.jpg');
+  background-image: url('c1.jpg');
 }
 .pheader-service-detail1 {
-  background-image: url('../theratio_placeholder/s1.jpg');
+  background-image: url('s1.jpg');
 }
 .pheader-team {
   background-image: url('https://via.placeholder.com/1920x500.png');
@@ -7248,7 +7248,7 @@ section {
     background-image: url(https://via.placeholder.com/1920x500.png);
 }
 .pheader-about {
-    background-image: url(../theratio_placeholder/ta1.jpg);
+    background-image: url(ta1.jpg);
 }
 .pheader-process {
     background-image: url(https://via.placeholder.com/1920x500.png);
@@ -7263,7 +7263,7 @@ section {
     background-image: url(https://via.placeholder.com/1920x500.png);
 }
 .pheader-portfolio {
-    background-image: url(../theratio_placeholder/tp1.jpg);
+    background-image: url(tp1.jpg);
 }
 .pheader-portfolio-detail {
     background-image: url(https://via.placeholder.com/1920x500.png);
@@ -7291,7 +7291,7 @@ section {
 .contact-right {
     padding-left: 75px;
     padding-right: 40px;
-    background-image: url("../theratio_placeholder/c2.jpg");
+    background-image: url("c2.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7387,19 +7387,19 @@ section {
     margin-bottom: 20px;
 }
 .icon-bg-1 {
-    background-image: url(../theratio_placeholder/hm1.jpg);
+    background-image: url(hm1.jpg);
 }
 .icon-bg-2 {
-    background-image: url(../theratio_placeholder/hm1.jpg);
+    background-image: url(hm1.jpg);
 }
 .icon-bg-3 {
-    background-image: url(../theratio_placeholder/hm1.jpg);
+    background-image: url(hm1.jpg);
 }
 .icon-bg-4 {
-    background-image: url(../theratio_placeholder/hm1.jpg);
+    background-image: url(hm1.jpg);
 }
 .icon-bg-5{
-    background-image: url(../theratio_placeholder/hm1.jpg);
+    background-image: url(hm1.jpg);
 }
 .icon-bg-6 {
     background-image: url(../theratio_placeholder/tb10.jpg);
@@ -7482,7 +7482,7 @@ section {
     margin-bottom: 40px;
 }
 .our-philosophy {
-    background-image: url(../theratio_placeholder/tb10.jpg);
+    background-image: url(tb10.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -7493,7 +7493,7 @@ section {
     border-color: #FFF;
 }
 .about-counter {
-    background-image: url(../theratio_placeholder/t2.jpg);
+    background-image: url(t2.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7558,7 +7558,7 @@ section {
     filter: brightness(100%) contrast(100%) saturate(100%) blur(0) hue-rotate(0deg);
 }
 .section-team-list {
-    background-image: url(../theratio_placeholder/hm2.jpg);
+    background-image: url(hm2.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7969,7 +7969,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     background: #F5592F;
 }
 .cta {
-    background-image: url(../theratio_placeholder/ta4.jpg);
+    background-image: url(ta4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 70px 0 73px 0;
@@ -7982,7 +7982,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     background-color: #fff;
 }
 .error-404 {
-    background-image: url('../theratio_placeholder/hm2.jpg');
+    background-image: url('hm2.jpg');
     height: 100vh;
     padding: 0;
 }
@@ -8391,7 +8391,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     color: #9F9E9E;
 }
 .story-1 {
-    background-image: url(../theratio_placeholder/ta1.jpg);
+    background-image: url(ta1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
