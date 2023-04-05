@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>CubicFeet</title>
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/flaticon.css" />
+    <link rel="stylesheet" href="css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="css/owl.theme.css" />
+    <link rel="stylesheet" href="css/magnific-popup.css" />
+    <link rel="stylesheet" href="css/lightgallery.css" />
+    <link rel="stylesheet" href="css/woocommerce.css" />
+    <link rel="stylesheet" href="css/royal-preload.css" />
+
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div id="royal_preloader"></div>
+    <div id="page" class="site">
+        <header id="site-header" class="site-header header-transparent">
+            <!-- Main Header start -->
+            <div class="octf-main-header is-fixed">
+                <div class="octf-area-wrap">
+                    <div class="container-fluid octf-mainbar-container">
+                        <div class="octf-mainbar">
+                            <div class="octf-mainbar-row octf-row">
+                                <div class="octf-col logo-col no-padding">
+                                    <div id="site-logo" class="site-logo">
+                                        <a href="index.html">
+                                            <img src="asd.png" alt="Theratio" class="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="octf-col menu-col no-padding">
+                                    <nav id="site-navigation" class="main-navigation">
+                                        <ul class="menu">
+                                            <li>
+                                                <a href="index.html">Home</a>
+                                              
+                                            </li>
+                                            <li><a href="about-us.html">About us</a>
+                                              
+                                            </li>
+                                            <li><a href="#">Products</a>
+                                               
+                                            </li>
+                                            <li><a href="portfolio-masonry.html">Portfolio</a>
+                                              
+                                            </li>
+                                           
+                                               
+                                            </li>
+                                            <li><a href="contact.html">Contacts</a></li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                                <div class="octf-col cta-col text-right no-padding">
+                                <!-- Call To Action -->
+                                    <div class="octf-btn-cta">
+
+                                        
+
+                            
+
+                                        <div class="octf-sidepanel octf-cta-header">
+                                            <div class="site-overlay panel-overlay"></div>
+                                            <div id="panel-btn" class="panel-btn octf-cta-icons">
+                                                <i class="ot-flaticon-menu"></i>
+                                            </div>
+                                        </div>
+                                        
+                                    </div>                              
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header_mobile">
+                <div class="container-fluid">
+                    <div class="octf-mainbar-row octf-row">
+                        <div class="octf-col">
+                            <div class="mlogo_wrapper clearfix">
+                                <div class="mobile_logo">
+                                    <a href="index.html">
+                                        <img src="sff (1).png" alt="Theratio">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="octf-col justify-content-end">
+                            
+                            <div class="octf-menu-mobile octf-cta-header">
+                                <div id="mmenu-toggle" class="mmenu-toggle">
+                                    <button><i class="ot-flaticon-menu"></i></button>
+                                    <style>
+                                        .panel-btn i {
+                                        color: #1a1919;
+                                         cursor: pointer;
+                                              }
+                                    </style>
+                                </div>
+                                <div class="site-overlay mmenu-overlay"></div>
+                                <div id="mmenu-wrapper" class="mmenu-wrapper on-right">
+                                    <div class="mmenu-inner">
+                                        <a class="mmenu-close" href="#"><i class="ot-flaticon-right-arrow"></i></a>
+                                        <div class="mobile-nav">
+                                            <ul id="menu-main-menu" class="mobile_mainmenu none-style">
+                                                <li>
+                                                    <a href="index.html">Home</a>
+                                                  
+                                                </li>
+                                                <li ><a href="about-us.html">About us</a>
+                                                   
+                                                </li>
+                                                <li><a href="#">Products</a>
+                                                    
+                                                </li>
+                                                <li ><a href="portfolio-masonry.html">Portfolio</a>
+                                                  
+                                                </li>
+                                                
+                                                <li class="current-menu-item"><a href="contact.html">Contacts</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div id="side-panel" class="side-panel">
+            <a href="#" class="side-panel-close"><i class="ot-flaticon-close-1"></i></a>
+            <div class="side-panel-block">
+                <div class="side-panel-wrap">
+                    <div class="the-logo">
+                        <a href="index-html">
+                            <img src="asd.png" alt="Theratio">
+                        </a>                    
+                    </div>
+                    <div class="ot-heading">
+                        <h2 class="main-heading">Our Gallery</h2>
+                    </div>
+                    <div class="image-gallery">
+                        <div id="gallery-1" class="gallery galleryid-102 gallery-columns-3 gallery-size-thumbnail">
+                            <figure class="gallery-item">
+                                <div class="gallery-icon landscape">
+                                    <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8701e24" data-elementor-lightbox-title="p4-gallery1" href="images/gallery1.jpg">
+                                        <img src="images/gallery-small-1.jpg" class="" alt="">
+                                    </a>
+                                </div>
+                            </figure>
+                            <figure class="gallery-item">
+                                <div class="gallery-icon landscape">
+                                    <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8701e24" data-elementor-lightbox-title="p4-gallery1" href="images/gallery2.jpg">
+                                        <img src="images/gallery-small-2.jpg" class="" alt="">
+                                    </a>
+                                </div>
+                            </figure>
+                            <figure class="gallery-item">
+                                <div class="gallery-icon landscape">
+                                    <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8701e24" data-elementor-lightbox-title="p4-gallery1" href="images/gallery3.jpg">
+                                        <img src="images/gallery-small-3.jpg" class="" alt="">
+                                    </a>
+                                </div>
+                            </figure>
+                            <figure class="gallery-item">
+                                <div class="gallery-icon landscape">
+                                    <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8701e24" data-elementor-lightbox-title="p4-gallery1" href="images/gallery4.jpg">
+                                        <img src="images/gallery-small-4.jpg" class="" alt="">
+                                    </a>
+                                </div>
+                            </figure>
+                            <figure class="gallery-item">
+                                <div class="gallery-icon landscape">
+                                    <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8701e24" data-elementor-lightbox-title="p4-gallery1" href="images/gallery5.jpg">
+                                        <img src="images/gallery-small-5.jpg" class="" alt="">
+                                    </a>
+                                </div>
+                            </figure>
+                            <figure class="gallery-item">
+                                <div class="gallery-icon landscape">
+                                    <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8701e24" data-elementor-lightbox-title="p4-gallery1" href="images/gallery6.jpg">
+                                        <img src="images/gallery-small-6.jpg" class="" alt="">
+                                    </a>
+                                </div>
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="ot-heading ">
+                        <h2 class="main-heading">Contact Info</h2>
+                    </div>
+                    <div class="side-panel-cinfo">
+                        <ul class="panel-cinfo">
+                            <li class="panel-list-item">
+                                <span class="panel-list-icon"><i class="ot-flaticon-place"></i></span>
+                                <span class="panel-list-text">NO.5, Level 3 <br>
+                                    <p><br>Lakhsmi Complex, 10th,<br><br>
+                                   Cross,Sadashivanagar,<br><br>
+                                   Bangalore 560080</span>
+                            </li>
+                            <li class="panel-list-item">
+                                <span class="panel-list-icon"><i class="ot-flaticon-mail"></i></span>
+                                <span class="panel-list-text">discovercubicfeet@gmail.com</span>
+                            </li>
+                            <li class="panel-list-item">
+                                <span class="panel-list-icon"><i class="ot-flaticon-phone-call"></i></span>
+                                <span class="panel-list-text">+91 8884494663</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="side-panel-social">
+                        <ul>
+                            <li><a href="http://twitter.com" target="_self"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="http://facebook.com" target="_self"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="http://linkedin.com" target="_self"><i class="fab fa-linkedin-in"></i></a></li>
+                            <li><a href="http://instagram" target="_self"><i class="fab fa-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="content" class="site-content">
+            <div class="page-header dtable text-center header-transparent page-header-contact">
+                <div class="dcell">
+                    <div class="container">
+                        <h1 class="page-title">Contact</h1>
+                        <ul id="breadcrumbs" class="breadcrumbs none-style">
+                            <li><a href="index.html">Home</a></li>
+                            <li class="active">Contacts</li>
+                        </ul>    
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <section class="contact-page">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 align-self-center mb-5 mb-lg-0">
+                        <div class="contact-leftz">
+                            <h2><br><br>Take the Leap</h2>
+                            <p class="font14">Your email address will not be published. Required fields are marked *</p>
+                            <form>  
+  
+                                <div class="main-form">
+                                    <p>
+                                        <label for="name"> <span class="error" id="err-name">please enter name</span></label>
+                                        <input type="text" name="name" value="" size="40" class="" aria-invalid="false" placeholder="Your Name *" required>
+                                    </p>
+                                    <p>
+                                        <label for="email"> 
+                                            <span class="error" id="err-email">please enter e-mail</span>
+                                            <span class="error" id="err-emailvld">e-mail is not a valid format</span>
+                                        </label>
+                                        <input type="email" name="email" id="email" value="" size="40" class="" aria-invalid="false" placeholder="Your Email *" required>
+                                    </p>
+                                  
+                                    <p> <label for="Phone Number"> <span class="error" id="err-name">please drop your number</span></label>
+                                    <input type="number" name="Phone" value="" size="10" class="" aria-invalid="false" placeholder="Your phone Number *" required></p>
+                                    <p>
+                                        <label for="address"> <span class="error" id="err-name">drop your address</span></label>
+                                        <input type="text" name="address" value="" size="40" class="" aria-invalid="false" placeholder="Your address *" required>
+                                    </p>
+                                    <p>
+                                        <label for="address"> <span class="error" id="err-name">drop your address 2</span></label>
+                                        <input type="text" name="address2" value="" size="40" class="" aria-invalid="false" placeholder="Your address *" required>
+                                    </p>
+                                    <p>
+                                        <label for="city"> <span class="error" id="err-name">city</span></label>
+                                        <input type="text" name="city" value="" size="40" class="" aria-invalid="false" placeholder="Your city *" required>
+                                    </p>
+                                    <p>
+                                        <label for="state"> <span class="error" id="err-name">State/Provinance</span></label>
+                                        <input type="text" name="city" value="" size="40" class="" aria-invalid="false" placeholder="Your State *" required>
+                                    </p>
+                                    <p> <label for="Zip code"> <span class="error" id="err-name">please drop Zip Code / Postal Code</span></label>
+                                        <input type="number" name="Phone" value="" size="10" class="" aria-invalid="false" placeholder="Your Zip Code *" required></p>
+                                        <p>
+                                            <p>
+                                                <label for="Country"> <span class="error" id="err-name">Country </span></label>
+                                                <input type="text" name="Country" value="" size="40" class="" aria-invalid="false" placeholder="Your Country *" required>
+                                            </p>
+                                            <h>Services Needed</h><br>
+                                            <p>Please select all that apply</p>
+                                            <input type="checkbox" id="services" name="services" value="services">
+                                            <label for="services">Scheme interior design plans</label><br>
+                                            <input type="checkbox" id="services" name="services" value="services">
+                                            <label for="services">Remodeling/Renovation</label><br>
+                                           <input type="checkbox" id="services" name="services" value="services">
+                                            <label for="services">Design Consultation</label><br>
+                                            <input type="checkbox" id="services" name="services" value="services">
+                                            <label for="services">Spacing planning & Layout Development</label><br>
+                                           <input type="checkbox" id="services" name="services" value="services">
+                                            <label for="services">installation Assistance/Styling</label><br>
+                                            <input type="checkbox" id="services" name="services" value="services">
+                                            <label for="services">Project Management</label><br>
+                                            <input type="checkbox" id="services" name="services" value="services">
+                                            <label for="services">Not Sure</label><br><br>
+                                            <p>
+                                                <label for="Message"> <span class="error" id="err-name">Write the Message</span></label>
+                                                <input type="text" name="Message value="" size="40" class="" aria-invalid="false" placeholder="Your Message *" required>
+                                            </p><br>
+                                            <input type="submit" value="Submit">
+                        
+
+                                </div>
+                                </form>  <br><br>
+
+                            <div class="clear"></div>
+                            <div id="ajaxsuccess">Successfully sent!!</div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="contact-right">
+                            <div class="ot-heading">
+                                <span>[ our contact details ]</span>
+                                <h2 class="main-heading">Let's Start a Project</h2>
+                            </div>
+                            <p style="color: aliceblue;">Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days. We will be happy to answer your questions.</p>
+                            <div class="contact-info">
+                                <i class="ot-flaticon-place"></i>
+                                <div class="info-text">
+                                    <h6>OUR ADDRESS:</h6>
+                                    NO.5, Level 3 <br>
+                                    <p><br>Lakhsmi Complex, 10th,<br><br>
+                                   Cross,Sadashivanagar,<br><br>
+                                   Bangalore 560080</span>
+                                  
+                                </div>
+                            </div>
+                            <div class="contact-info">
+                                <i class="ot-flaticon-mail"></i>
+                                <div class="info-text">
+                                    <h6>OUR MAILBOX:</h6>discovercubicfeet@gmail.com</a></p>
+                                </div>
+                            </div>
+                            <div class="contact-info">
+                                <i class="ot-flaticon-phone-call"></i>
+                                <div class="info-text">
+                                    <h6>OUR PHONE:</h6>
+                                    <p><a href="tel:+1 800 456 789 123">+91 8884494663</a></p>
+                                </div>
+                            </div>
+                            <div class="list-social">
+                                <ul>
+                                    <li><a href="http://twitter.com" target="_self"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="http://facebook.com" target="_self"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="http://linkedin.com" target="_self"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="http://instagram" target="_self"><i class="fab fa-instagram"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="contact-map">
+            <div class="map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.3330175374986!2d77.57137321413562!3d13.014452617459463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae113efb031a0f%3A0x4dbf761e548e9735!2sInspiration%20Manpower!5e0!3m2!1sen!2sin!4v1680157908342!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  
+            </div>
+        </div>
+
+    <footer id="site-footer" class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-xl-0">
+                    <div class="widget-footer">
+                        <img src="asd.png" class="footer-logo" alt="">
+                        <p>We provides a full range of interior design, architectural design.</p>
+                        <div class="footer-social list-social">
+                            <ul>
+                                <li><a href="http://facebook.com" target="_self"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="http://twitter.com" target="_self"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="http://linkedin.com" target="_self"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="http://instagram" target="_self"><i class="fab fa-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-xl-0">
+                    <div class="widget-footer">
+                        <h6>Contacts</h6>
+                        <ul class="footer-list">
+                            <li class="footer-list-item">
+                                <span class="list-item-icon"><i class="ot-flaticon-place"></i></span>
+                                <span class="list-item-text">NO.5, Level 3 
+                                    <p><br>Lakhsmi Complex, 10th,</p>
+                                    <p> Cross,Sadashivanagar,</p>
+                                    <p>Bangalore 560080</p></span>
+                            </li>
+                            <li class="footer-list-item">
+                                <span class="list-item-icon"><i class="ot-flaticon-mail"></i></span>
+                                <span class="list-item-text">discovercubicfeet@gmail.com</span>
+                            </li>
+                            <li class="footer-list-item">
+                                <span class="list-item-icon"><i class="ot-flaticon-phone-call"></i></span>
+                                <span class="list-item-text">+91 8884494663</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-md-0">
+                    <div class="widget-footer widget-contact">
+                        <h6>Latest Projects</h6>
+                        <ul>
+                            <li><a href="#">Stylish Family Appartment</a></li>
+                            <li><a href="#">Modern Villa in Belgium</a></li>
+                            <li><a href="#">Private House in Spain</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12">
+                    <div class="widget-footer footer-widget-subcribe">
+                        <h6>Subscribe</h6>
+                        <form class="mc4wp-form" method="post">
+                            <div class="mc4wp-form-fields">
+                                <div class="subscribe-inner-form">
+                                    <input type="email" name="EMAIL" placeholder="YOUR EMAIL" required="">
+                                    <button type="submit" class="subscribe-btn-icon"><i class="ot-flaticon-send"></i></button>
+                                </div>
+                            </div>
+                        </form>
+                        <p>Follow our newsletter to stay updated about agency.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer><!-- #site-footer -->
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
+                    <p>Copyright © 2023 by <a class="text-light" href="#">Bright Ads Digital India</a>. All Rights Reserved.</p>
+                </div>
+                <div class="col-lg-5 col-md-12 align-self-center">
+                    <ul class="icon-list-items inline-items justify-content-lg-end">
+                        <li class="icon-list-item inline-item">
+                            <a href="#"><span class="icon-list-text">Terms of use</span></a>
+                        </li>
+                        <li class="icon-list-item inline-item">
+                            <a href="#"><span class="icon-list-text">Privacy Environmental Policy</span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- whatsapp-->
+<a href="https://wa.me/91984591199" target="_blank">
+    <div class="whatsapp_float">
+        <img src="images/whatsapp.png" width="50px" style="border-radius: inherit;" class="whatsapp_float_btn" />
+    </div>
+</a>
+<!--whatsapp end-->
+<!-- #page -->
+<a id="back-to-top" href="#" class="show"><i class="ot-flaticon-left-arrow"></i></a>
+        <!-- jQuery -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/mousewheel.min.js"></script>
+    <script src="js/lightgallery-all.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/easypiechart.min.js"></script>
+    <script src="js/jquery.countdown.min.js"></script>
+    <script src="js/scripts.js"></script>
+    <script src="js/contact.js"></script>
+    <script src="js/royal_preloader.min.js"></script>
+    <script>
+        window.jQuery = window.$ = jQuery;  
+        (function($) { "use strict";
+            //Preloader
+            Royal_Preloader.config({
+                mode           :   'progress',
+                background     :   '#fff',
+            });
+        })(jQuery);
+    </script>  
+</body>
+</html>

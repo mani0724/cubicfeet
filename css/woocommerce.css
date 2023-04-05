@@ -603,7 +603,7 @@
     -ms-transition: all 0.3s linear;
 }
 .shop-cart-table {
-    font-family: "Titillium Web", sans-serif;
+    font-family: "Montserrat", sans-serif;
     color: #1a1b1e;
     font-size: 18px;
     font-weight: 600;
@@ -679,7 +679,7 @@
     width: 75px;
     height: 56px;
     line-height: 46px;
-    font-family: "Titillium Web", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 18px;
     font-weight: 600;
 }
@@ -721,7 +721,7 @@
 .octf-btn.disable {
     overflow: hidden;
     font-size: 14px;
-    font-family: "Titillium Web", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 600;
     padding: 16px 30px;
     text-transform: uppercase;
@@ -747,11 +747,11 @@
 }
 .cart_totals h2 {
     font-size: 20px;
-    font-family: "Titillium Web", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 700;
 }
 .cart-collaterals .cart_totals table {
-    font-family: "Titillium Web", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 700;
     color: #1a1b1e;
     font-size: 16px;
@@ -838,7 +838,7 @@
 }
 .checkout_coupon .button {
     font-size: 14px;
-    font-family: "Titillium Web", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 600;
     text-transform: uppercase;
     padding: 16px 30px;
@@ -902,7 +902,7 @@
     margin-top: 30px;
 }
 .woocommerce-checkout-review-order-table {
-    font-family: "Titillium Web", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 700;
     color: #1a1b1e;
     font-size: 16px;
@@ -966,7 +966,7 @@
     background-color: #0093A9;
     border: 1px solid #0093A9;
     font-size: 14px;
-    font-family: "Titillium Web", sans-serif;
+    font-family: "Montserrat", sans-serif;
     padding: 16px 30px;
     line-height: 1;
 }

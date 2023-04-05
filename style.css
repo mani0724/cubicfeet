@@ -8519,12 +8519,10 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     background-color: #0A0A0A;
 }
 /* Index 2 */
-.octf-mainbar-row .octf-col.logo-col {
-    flex-grow: 0.2;
-}
+
 .octf-mainbar-row .octf-col.menu-col {
     -ms-flex-pack: center;
-    justify-content: center;
+    justify-content: end;
     flex-grow: 0.6;
 }
 .octf-mainbar-row .octf-col.cta-col {
