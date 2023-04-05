@@ -7160,6 +7160,7 @@ div.elementor-widget-heading .elementor-heading-title {
     flex-wrap: nowrap;
     align-items: stretch;
     flex: 1 auto;
+    background-color: #0093A9;
 }
 .side-panel-cinfo {
     padding-bottom: 40px;
