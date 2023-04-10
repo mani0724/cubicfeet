@@ -47,7 +47,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: "Titillium Web", "Helvetica Neue", helvetica, arial, sans-serif;;
+	font-family: "Montserrat", "Helvetica Neue", helvetica, arial, sans-serif;;
 	clear: both;
 	line-height: 1.4;
 	margin: 0 0 0.75em;
@@ -142,7 +142,7 @@ address {
 
 pre {
 	background: #eee;
-	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-family: "Courier 10 Pitch", Courier, Montserrat;
 	font-size: 15px;
 	font-size: 0.9375rem;
 	line-height: 1.6;
@@ -156,7 +156,7 @@ code,
 kbd,
 tt,
 var {
-	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", Montserrat;
 	font-size: 15px;
 	font-size: 0.9375rem;
 }
