@@ -3027,7 +3027,8 @@ a:hover, a:active {
 
 /*Version Dark*/
 .dark-scheme .post-box .quote-box .quote-text:before {
-  background-image: url("https://via.placeholder.com/189x150.png");
+  background-image
+  : url("https://via.placeholder.com/189x150.png");
 }
 .dark-scheme .page-pagination li span, .dark-scheme .page-pagination li a:hover {
   color: #000;
@@ -3379,7 +3380,7 @@ a:hover, a:active {
 
 .author-widget_wrapper {
   padding: 30px;
-  background-image: url('../theratio_placeholder/c2.jpg');
+  background-image: url('images/c2.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -7234,13 +7235,13 @@ section {
   background-color: #0093A9;
 }
 .page-header {
-  background-image: url('tb1.jpg');
+  background-image: url('images/tb1.jpg');
 }
 .page-header-contact {
-  background-image: url('c1.jpg');
+  background-image: url('images/c1.jpg');
 }
 .pheader-service-detail1 {
-  background-image: url('s1.jpg');
+  background-image: url('images/s1.jpg');
 }
 .pheader-team {
   background-image: url('https://via.placeholder.com/1920x500.png');
@@ -7249,7 +7250,7 @@ section {
     background-image: url(https://via.placeholder.com/1920x500.png);
 }
 .pheader-about {
-    background-image: url(ta1.jpg);
+    background-image: url('images/ta1.jpg');
 }
 .pheader-process {
     background-image: url(https://via.placeholder.com/1920x500.png);
@@ -7264,7 +7265,7 @@ section {
     background-image: url(https://via.placeholder.com/1920x500.png);
 }
 .pheader-portfolio {
-    background-image: url(tp1.jpg);
+    background-image: url('images/tp1.jpg');
 }
 .pheader-portfolio-detail {
     background-image: url(https://via.placeholder.com/1920x500.png);
@@ -7292,7 +7293,7 @@ section {
 .contact-right {
     padding-left: 75px;
     padding-right: 40px;
-    background-image: url("c2.jpg");
+    background-image: url('images/c2.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7388,32 +7389,32 @@ section {
     margin-bottom: 20px;
 }
 .icon-bg-1 {
-    background-image: url(hm1.jpg);
+    background-image: url('images/hm1.jpg');
 }
 .icon-bg-2 {
-    background-image: url(hm1.jpg);
+    background-image: url('images/hm1.jpg');
 }
 .icon-bg-3 {
-    background-image: url(hm1.jpg);
+    background-image: url('images/hm1.jpg');
 }
 .icon-bg-4 {
-    background-image: url(hm1.jpg);
+    background-image: url('images/hm1.jpg');
 }
 .icon-bg-5{
-    background-image: url(hm1.jpg);
+    background-image: url('images/hm1.jpg');
 }
 .icon-bg-6 {
-    background-image: url(../theratio_placeholder/tb10.jpg);
+    background-image: url('images/tb10.jpg');
 }
 
 .icon-bg-4:hover {
-    background-image: url(../theratio_placeholder/tb10.jpg);
+    background-image: url('images/tb10.jpg');
 }
 .icon-bg-5:hover {
-    background-image: url(../theratio_placeholder/tb10.jpg);
+    background-image: url('images/tb10.jpg');
 }
 .icon-bg-6:hover {
-    background-image: url(../theratio_placeholder/tb10.jpg);
+    background-image: url('images/tb10.jpg');
 }
 .services-feature {
     background-color: #0093A9;
@@ -7483,7 +7484,7 @@ section {
     margin-bottom: 40px;
 }
 .our-philosophy {
-    background-image: url(tb10.jpg);
+    background-image: url('images/tb10.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -7494,7 +7495,7 @@ section {
     border-color: #FFF;
 }
 .about-counter {
-    background-image: url(t2.jpg);
+    background-image: url('images/t2.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7559,7 +7560,7 @@ section {
     filter: brightness(100%) contrast(100%) saturate(100%) blur(0) hue-rotate(0deg);
 }
 .section-team-list {
-    background-image: url(hm2.jpg);
+    background-image: url('images/hm2.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7970,7 +7971,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     background: #F5592F;
 }
 .cta {
-    background-image: url(ta4.jpg);
+    background-image: url('images/ta4.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding: 70px 0 73px 0;
@@ -7983,7 +7984,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     background-color: #fff;
 }
 .error-404 {
-    background-image: url('hm2.jpg');
+    background-image: url('images/hm2.jpg');
     height: 100vh;
     padding: 0;
 }
@@ -8392,7 +8393,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     color: #9F9E9E;
 }
 .story-1 {
-    background-image: url(ta1.jpg);
+    background-image: url('images/ta1.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -8402,7 +8403,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 .story-text {
     color: #FFF;
     font-family: "Montserrat",Sans-serif;
-    font-size: 30px;
+    font-size: 24px;
     font-weight: 300;
     line-height: 48px;
     text-align: right;
@@ -10134,8 +10135,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     color: #fff;
 }
 .footer-logo {
-    max-width: 155px;
-    padding-bottom: 32px;
+    max-width: 100%;
 }
 .footer-social {
     padding-top: 9px;
